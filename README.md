@@ -14,4 +14,5 @@ The document focuses on:
 - Typical business use cases
 
 **Status:** Draft v1 
+
 The document will be refined based on feedback.
