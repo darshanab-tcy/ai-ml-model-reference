@@ -1,2 +1,17 @@
-# ai-ml-model-reference
-AI &amp; ML model reference guide for ML, DL, NLP models with algorithms, math foundations, and business use cases.
+# AI & Machine Learning Model Reference
+
+This repository contains an AI/ML reference document covering:
+
+- Machine Learning models
+- Deep Learning models
+- Classical NLP models (non-LLM)
+- Time series models
+- Model selection guidance
+
+The document focuses on:
+- Algorithm overviews
+- High-level mathematical foundations
+- Typical business use cases
+
+**Status:** Draft v1 
+The document will be refined based on feedback.
