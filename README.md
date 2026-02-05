@@ -13,6 +13,6 @@ The document focuses on:
 - High-level mathematical foundations
 - Typical business use cases
 
-**Status:** Draft v1 
+**Status:** Draft v2
 
 The document will be refined based on feedback.
